@@ -1,0 +1,1 @@
+try to use zig to learn Games101 course.
