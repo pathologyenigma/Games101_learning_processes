@@ -1,0 +1,8 @@
+pkgs:
+  Games101_learning_processes:
+    version: 0.0.0
+    root: src/main.zig
+    description: trying to learn graphics by watch Games101 and write code in zig
+    source_url: "https://github.com/pathologyenigma/Games101_learning_processes"
+deps:
+  kooparse/zalgebra: ^0.1.0
